@@ -1,0 +1,33 @@
+{
+  "name": "duruapp",
+  "version": "1.0.0",
+  "description": "Duruapp WebPage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdagli/duruapp-webpage.git"
+  },
+  "keywords": [
+    "webpage",
+    "mobile",
+    "landing"
+  ],
+  "author": "Caner Dagli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdagli/duruapp-webpage/issues"
+  },
+  "homepage": "https://github.com/cdagli/duruapp-webpage",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "html-webpack-plugin": "^2.30.1",
+    "react-dom": "^16.1.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
