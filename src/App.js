@@ -12,6 +12,13 @@ class App extends Component {
   render() {
     let apps = [
       {
+        description: 'Kelime Ailesi, birçok ilgi çekici kelime kategorileri arasından istediğini seçerek oynayabileceğin son moda bir kelime oyunudur',
+        iconPath: 'icon_kelimeAilesi.jpg',
+        name: 'Kelime Ailesi - Çengel Bulmaca',
+        mockPath: 'mock_kelimeAilesi.png',
+        storeUrl: 'https://itunes.apple.com/app/id1330643993'
+      },
+      {
         description: 'This is the app you need to get prepared for the New Year & Christmas! You can d' +
             'esign labels, stickers & cards with Christmas & New Year themes. You can use the' +
             'm in your social media accounts, send them to your friends or how ever you want.',
